@@ -1,0 +1,8 @@
+# skip tmp directory
+
+tmp/
+doc/**/*.txt
+# любой файл тхт в любой подпапке doc будет проигнорирован
+README*
+
+
