@@ -1,4 +1,6 @@
 branches:
 	master:
 		commits: 3
+	develop:
+		commits: 4
 
